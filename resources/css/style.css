@@ -7,3 +7,13 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+
+a:link {
+  color: white;
+  font-size: 18px;
+}
+
+.flatiron_header {
+  background: url("../images/the-flatiron-building.png");
+  color: white;
+}
